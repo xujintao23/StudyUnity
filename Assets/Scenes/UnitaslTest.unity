@@ -302,7 +302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca2cc60594a5c2f4f8b291274a3179d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  times: 10
+  times: 2
   btn: {fileID: 1150003188}
   textMeshPro: {fileID: 551939947}
 --- !u!114 &677650876

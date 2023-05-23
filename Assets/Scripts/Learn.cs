@@ -32,7 +32,7 @@ public class Learn : MonoBehaviour
     {
         for (var i = 0; i < times; i++)
         {
-            await UniTask.Delay(1000);
+            await UniTask.Delay(TimeSpan.FromSeconds(1));
             _waitTime += 1f;
         }
         Debug.Log("111111111111111");
